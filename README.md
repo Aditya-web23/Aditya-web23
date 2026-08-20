@@ -66,55 +66,49 @@
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Property Price Prediction</h3>
-      <p align="center">
-        End-to-end Machine Learning project for predicting property prices using data preprocessing, feature engineering and regression models.
-      </p>
-      <p align="center">
-        <b>Python • Pandas • NumPy • Scikit-learn • Flask</b>
-      </p>
-    </td>
+<tr>
+<td width="50%" align="center">
 
-```
-<td width="50%">
-  <h3 align="center">🛡️ Hate Speech Detection</h3>
-  <p align="center">
-    Machine Learning project focused on detecting hate speech from textual data using NLP and classification techniques.
-  </p>
-  <p align="center">
-    <b>Python • NLP • Machine Learning • Scikit-learn</b>
-  </p>
+### 🏠 Property Price Prediction
+
+End-to-end Machine Learning project for predicting property prices using data preprocessing, feature engineering and regression models.
+
+**Python • Pandas • NumPy • Scikit-learn • Flask**
+
 </td>
-```
 
-  </tr>
+<td width="50%" align="center">
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 SmartNotes AI</h3>
-      <p align="center">
-        Educational platform designed to help students generate and organize study notes for multiple academic subjects.
-      </p>
-      <p align="center">
-        <b>HTML • CSS • JavaScript • AI • Google Sheets</b>
-      </p>
-    </td>
+### 🛡️ Hate Speech Detection
 
-```
-<td width="50%">
-  <h3 align="center">📋 Habit Tracker</h3>
-  <p align="center">
-    Habit tracking application with authentication, CRUD operations and cloud-based data storage.
-  </p>
-  <p align="center">
-    <b>Glide • Google Sheets • CRUD</b>
-  </p>
+Machine Learning project focused on detecting hate speech from textual data using NLP and classification techniques.
+
+**Python • NLP • Machine Learning • Scikit-learn**
+
 </td>
-```
+</tr>
 
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+### 📝 SmartNotes AI
+
+Educational platform designed to help students generate and organize study notes for multiple academic subjects.
+
+**HTML • CSS • JavaScript • AI • Google Sheets**
+
+</td>
+
+<td width="50%" align="center">
+
+### 📋 Habit Tracker
+
+Habit tracking application with authentication, CRUD operations and cloud-based data storage.
+
+**Glide • Google Sheets • CRUD**
+
+</td>
+</tr>
 </table>
 
 ---
@@ -123,53 +117,18 @@
 
 <div align="center">
 
-**Data Structures & Algorithms** • **Advanced Java** • **Machine Learning** • **Data Science** • **Generative AI**
+**Data Structures & Algorithms** • **Advanced Java** • **Machine Learning** • **Data Science** • **Generative AI** • **Data Analytics** • **SQL** • **Deep Learning**
 
 </div>
 
-* Strengthening DSA and competitive problem solving.
-* Improving Machine Learning model performance and deployment.
-* Working on end-to-end Data Science projects.
-* Exploring AI and Generative AI applications.
-* Improving SQL and database optimization skills.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-web23&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aditya-web23&theme=dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-web23&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-web23&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-web23&theme=react-dark&color=FF6B00&line=FF8C00&point=FFA500&hide_border=true&area=true" />
-
-</div>
+* 🔹 Strengthening **Data Structures & Algorithms** and problem-solving using Java.
+* 🔹 Improving **Advanced Java** and Object-Oriented Programming concepts.
+* 🔹 Building practical **Data Science & Machine Learning** projects.
+* 🔹 Learning **Generative AI**, LLMs and AI-based application development.
+* 🔹 Improving **Data Analytics** skills using Python, Pandas, NumPy and visualization.
+* 🔹 Strengthening **SQL and database** concepts for data analysis.
+* 🔹 Exploring **Deep Learning** and neural-network-based applications.
+* 🔹 Learning how to **optimize and deploy ML models** for real-world applications.
 
 ---
 
