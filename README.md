@@ -5,7 +5,7 @@
 <!-- Dynamic Typing Header -->
 
 <a href="#about-me">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&height=45&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Java+%26+DSA+Learner;AI+%26+Data+Analytics+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&height=45&lines=Data+Science+Enthusiast;Java+%26+DSA+Learner;AI+%26+Data+Analytics+Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
